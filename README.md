@@ -8,6 +8,7 @@ Tools Required:
 •	Cadence Virtuoso Software
 
 Circuit Diagram:
+
 ![WhatsApp Image 2024-11-13 at 4 26 07 PM](https://github.com/user-attachments/assets/f02e6574-fbd3-471a-9cfc-46a85c145086)
 
 
